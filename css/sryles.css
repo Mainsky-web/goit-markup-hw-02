@@ -10,6 +10,19 @@ body {
     list-style-type: none;
 }
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
 /*  Header  */
 
 .header-nav-logo {
@@ -157,6 +170,8 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
+/* Cases */
+
 /* Footer */
 
 .footer {
@@ -181,4 +196,26 @@ text-transform: uppercase;
 font-size: 16px;
 line-height: 1.50;
 letter-spacing: 0.02em;
+}
+
+/* Cases */
+.cases {
+}
+
+.cases-list {
+}
+
+.cases-item {
+}
+.cases-btn {
+color: var(--iris, #4D5AE5);
+background-color:  #E7E9FC;
+font-size: 16px;
+font-family: inherit;
+font-weight: 500;
+line-height: 1.50;
+letter-spacing: 0.04;
+    
+}
+.cases-photo {
 }
