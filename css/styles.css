@@ -198,7 +198,7 @@ letter-spacing: 0.02em;
     background-color: var(--navyblue, #2E2F42);
 }
 .footer-logo {
-    color: var(--iris #4D5AE5);
+    color: var(--iris);
     background-color: var(--navyblue, #2E2F42);
 font-size: 18px;
 font-family:"Raleway", sans-serif;
@@ -208,11 +208,11 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .footer-logo-acc {
-    color: var(--flower, #F4F4FD);
+    color: var(--flower);
 }
 
 .footer-text {
-    color: var(--cloud, #F4F4FD);
+    color: var(--cloud);
 font-size: 16px;
 line-height: 1.50;
 letter-spacing: 0.02em;
