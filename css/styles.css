@@ -43,7 +43,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .logo-acc {
-    color: var(--navyblue, #2E2F42);
+    color: var(--navyblue);
 }
 .header-nav {
 }
