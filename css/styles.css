@@ -195,11 +195,11 @@ letter-spacing: 0.02em;
 /* Footer */
 
 .footer {
-    background-color: var(--navyblue, #2E2F42);
+    background-color: var(--navyblue);
 }
 .footer-logo {
-    color: var(--iris #4D5AE5);
-    background-color: var(--navyblue, #2E2F42);
+    color: var(--iris);
+    background-color: var(--navyblue);
 font-size: 18px;
 font-family:"Raleway", sans-serif;
 font-weight: 800;
@@ -208,7 +208,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .footer-logo-acc {
-    color: var(--flower, #F4F4FD);
+    color: var(--flower);
 }
 
 .footer-text {
@@ -264,6 +264,6 @@ cursor: pointer;
 
 .cases-btn:hover,
 .cases-btn:focus{
-    color: var(--white, #FFFFFF);
+    color: var(--white);
 background-color: var(--ocean, #404BBF);
 }
